@@ -9,8 +9,8 @@ __author__ = 'Brendon Taylor, modified by Alexey Ignatiev, further modified by J
 __docformat__ = 'reStructuredText'
 
 from typing import TypeVar, Generic
-from data_structures.linked_stack import LinkedStack
-from data_structures.node import TreeNode
+from linked_stack import LinkedStack
+from node import TreeNode
 import sys
 
 
